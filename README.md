@@ -1,82 +1,109 @@
-
 <div align="center">
 
-# Olá, me chamo Vinicius de Oliveira Nunes, sou um desenvolvedor Full Stack.
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · vinicius365a</sub></p>
+<h1>Vinicius De Oliveira Nunes</h1>
+<h2>Backend or systems engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-**Estudante de Engenharia de Software | Desenvolvimento Web | Aprendizado contínuo**
-
-<a href="https://www.linkedin.com/in/vinicius-oliveira-b02900179/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:viniciusoliveiraa17@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
+<p><a href="https://github.com/vinicius365a">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/118546988?v=4" width="180" alt="Vinicius De Oliveira Nunes GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## 👨‍💻 Sobre mim
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Java</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>4 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>10 contributions · 2 active days</p></td>
+</tr>
+</table>
 
-Sou apaixonado por tecnologia e tenho contato com a área desde cedo. Atualmente, estou me formando em **Engenharia de Software pela Estácio** e complemento meus estudos com cursos e conteúdos técnicos da **DIO**, do YouTube e de documentações oficiais.
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-Tenho direcionado meus estudos para o desenvolvimento Full Stack, buscando construir uma base sólida tanto no front-end quanto no back-end. Gosto de aprender na prática, explorar novas ferramentas e transformar o conhecimento adquirido em projetos que resolvam problemas reais.
+<h2>Proof at a glance</h2>
 
-Meu objetivo é evoluir continuamente como desenvolvedor, aprimorar minhas habilidades e contribuir com soluções bem construídas, funcionais e de fácil manutenção.
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-## 🚀 Tecnologias e ferramentas
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Vinicius De Oliveira Nunes GitHub proof metrics" />
+</picture>
+</p>
 
-<div align="center">
+<h2>Selected work</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,docker,git,figma&theme=dark" alt="Tecnologias e ferramentas">
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&repos=vinicius365a%2Fjava-basico-DIO-desafio%2Cvinicius365a%2FprojetoMarioBros&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&repos=vinicius365a%2Fjava-basico-DIO-desafio%2Cvinicius365a%2FprojetoMarioBros&v=recruiter-projects-1&mode=dark" width="100%" alt="Vinicius De Oliveira Nunes selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/vinicius365a/java-basico-DIO-desafio">java-basico-DIO-desafio</a></h3>
+<p>A selected public project.</p>
+<p><sub>Java · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/vinicius365a/java-basico-DIO-desafio">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-</div>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/vinicius365a/projetoMarioBros">projetoMarioBros</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-## 📊 Progresso de aprendizado
+<h2>Technical toolkit</h2>
 
-> Percentuais baseados na minha autoavaliação atual de familiaridade com cada tecnologia.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Vinicius De Oliveira Nunes technology stack" />
+</picture>
+</p>
 
-| Tecnologia | Progresso |
-|:--|:--|
-| **HTML** | ![HTML](https://progress-bar.dev/80/?title=80%25&width=220&color=E34F26) |
-| **CSS** | ![CSS](https://progress-bar.dev/80/?title=80%25&width=220&color=1572B6) |
-| **JavaScript** | ![JavaScript](https://progress-bar.dev/70/?title=70%25&width=220&color=F7DF1E) |
-| **Node.js** | ![Node.js](https://progress-bar.dev/40/?title=40%25&width=220&color=339933) |
-| **Java** | ![Java](https://progress-bar.dev/20/?title=20%25&width=220&color=ED8B00) |
-| **Docker** | ![Docker](https://progress-bar.dev/40/?title=40%25&width=220&color=2496ED) |
-| **Git** | ![Git](https://progress-bar.dev/50/?title=50%25&width=220&color=F05032) |
-| **Figma** | ![Figma](https://progress-bar.dev/50/?title=50%25&width=220&color=F24E1E) |
+<table width="100%">
+<tr>
+<td width="100%" align="center"><strong>Java</strong><br /><sub>100% of public code</sub></td>
+</tr>
+</table>
 
-## 💻 Projetos em destaque
+<h2>Consistency signal</h2>
 
-Estou desenvolvendo projetos para colocar em prática o que venho aprendendo e fortalecer minhas habilidades em desenvolvimento de software.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Vinicius De Oliveira Nunes contribution activity" />
+</picture>
+</p>
 
-<!--
-Adicione seus projetos neste formato:
+<hr />
 
-### 🔹 Nome do projeto
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/vinicius365a">GitHub</a></td>
+</tr>
+</table>
 
-Descrição breve do projeto e de suas principais funcionalidades.
-
-**Tecnologias:** HTML · CSS · JavaScript
-
-[📂 Repositório](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO) | [🌐 Demonstração](LINK_DA_DEMO)
--->
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Estatísticas do GitHub">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais utilizadas">
-
-</div>
-
----
-
-<div align="center">
-
-**Em constante aprendizado, um projeto de cada vez.**
-
-</div>
+<p align="center"><sub>Vinicius De Oliveira Nunes · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
