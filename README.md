@@ -1,109 +1,128 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · vinicius365a</sub></p>
-<h1>Vinicius De Oliveira Nunes</h1>
-<h2>Backend or systems engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=vinicius365a&theme=neon&role=Backend%20or%20systems%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Vinicius De Oliveira Nunes profile banner" />
 
-<p><a href="https://github.com/vinicius365a">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/118546988?v=4" width="180" alt="Vinicius De Oliveira Nunes GitHub avatar" />
-</td>
-</tr>
-</table>
+<br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Backend%20or%20systems%20engineer;Backend%20or%20systems%20engineer;Building%20with%20Java;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<br/>
+
+<a href="https://github.com/vinicius365a"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/3_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="3 followers" />
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinicius365a&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<table width="100%">
+## ⚡ whoami
+
+```typescript
+const vinicius365a: Developer = {
+  name:      "Vinicius De Oliveira Nunes",
+  role:      "Backend or systems engineer",
+  location:  "Building from the open web",
+  currently: "building in public",
+  stack:     ["Java"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
+
+> Backend or systems engineer
+> 
+> **Collaborations welcome when they are meaningful 🤝**
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinicius365a&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java&perline=8&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+
+<img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&amp;labelColor=0d1117" alt="Java" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinicius365a&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌌 Featured Projects
+
+<table>
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Java</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>4 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>10 contributions · 2 active days</p></td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+**java-basico-DIO-desafio**
 
-<h2>Proof at a glance</h2>
+A featured build from this profile.
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>4</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>10</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+`Java` · `0 stars`
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Vinicius De Oliveira Nunes GitHub proof metrics" />
-</picture>
-</p>
+<a href="https://github.com/vinicius365a/java-basico-DIO-desafio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&repos=vinicius365a%2Fjava-basico-DIO-desafio%2Cvinicius365a%2FprojetoMarioBros&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&repos=vinicius365a%2Fjava-basico-DIO-desafio%2Cvinicius365a%2FprojetoMarioBros&v=recruiter-projects-1&mode=dark" width="100%" alt="Vinicius De Oliveira Nunes selected projects" />
-</picture>
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/vinicius365a/java-basico-DIO-desafio">java-basico-DIO-desafio</a></h3>
-<p>A selected public project.</p>
-<p><sub>Java · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/vinicius365a/java-basico-DIO-desafio">Read the repository →</a></p>
+<td width="50%" valign="top">
+
+**projetoMarioBros**
+
+A featured build from this profile.
+
+`Open source` · `0 stars`
+
+<a href="https://github.com/vinicius365a/projetoMarioBros"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/vinicius365a/projetoMarioBros">projetoMarioBros</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-</tr>
-</table>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinicius365a&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<h2>Technical toolkit</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Vinicius De Oliveira Nunes technology stack" />
-</picture>
-</p>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="100%" align="center"><strong>Java</strong><br /><sub>100% of public code</sub></td>
-</tr>
-</table>
+<img src="https://www.gitskins.com/api/section/stats?username=vinicius365a&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
 
-<h2>Consistency signal</h2>
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=vinicius365a&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinicius365a&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=vinicius365a&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Vinicius De Oliveira Nunes contribution activity" />
-</picture>
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vinicius365a&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118546988%3Fv%3D4" alt="vinicius365a heatmap visual" />
 </p>
 
-<hr />
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinicius365a&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/vinicius365a">GitHub</a></td>
-</tr>
-</table>
+## 🏆 Beyond the Code
 
-<p align="center"><sub>Vinicius De Oliveira Nunes · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+* 🧠 **Profile signal:** 13 contributions in the last year
+* 🚀 **Builder energy:** 4 public repositories
+* ⭐ **Community signal:** 0 stars across featured work
+* 🗣️ **Open to:** interesting collaborations and useful products
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinicius365a&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<div align="center">
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+<a href="https://github.com/vinicius365a"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+
+<br/><br/>
+
+***⭐ From [Vinicius De Oliveira Nunes](https://github.com/vinicius365a) · built with code, AI & a little chaos 😈***
+
+</div>
